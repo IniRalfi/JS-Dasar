@@ -1,1 +1,12 @@
 /my_project_env
+/.vscode
+/.idea
+/.DS_Store
+/.env
+/.pytest_cache
+/.mypy_cache
+/.pytest
+/.tox
+/.coverage.*
+/.hypothesis
+
